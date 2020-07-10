@@ -1,3 +1,3 @@
 # gitCurso
 PRUEBA PROYECTO CON GIT
-Este es una proyecto de prueba GIT
+Este es un proyecto de prueba GIT
